@@ -1,3 +1,3 @@
 <?php
 
-echo "pica vole pica kunda pes";
+echo "pica vole pica kunda pes, lokalni zmena";
